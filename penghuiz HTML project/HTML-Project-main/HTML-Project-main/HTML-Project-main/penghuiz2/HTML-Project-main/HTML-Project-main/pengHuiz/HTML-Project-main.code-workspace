@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "HTML-Project-main",
+			"path": "../../../../../.."
+		},
+		{
+			"name": "images",
+			"path": "../../../../../../../../../OneDrive/Documents/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML-Project-main"
+	}
+}
